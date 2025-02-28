@@ -1,4 +1,3 @@
-markdown
 # IMDb Movies Dashboard Project 🎮📊
 
 ## 📌 Project Overview
